@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Atlas Technology Consulting",
-    "currentPage": "ContactUs.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -42,7 +42,8 @@
     "noImageResize": "",
     "uniqCompNum": 108,
     "versionPublish": "4.8.2",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-122654044-2\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-122654044-2');\r\n</script>"
   },
   "pages": {
     "ServerlessComputing.html": {
